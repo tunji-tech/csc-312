@@ -1,4 +1,4 @@
-2...write a function  to perform a push on dynamically allocated stack
+3...write a function  to perform a push on dynamically allocated stack
 solution
 
 struct Node
@@ -32,7 +32,7 @@ Top=Temp;
 
 
 
-
+NO....2
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
